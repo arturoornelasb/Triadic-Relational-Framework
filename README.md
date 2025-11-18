@@ -9,7 +9,7 @@ This repository contains the official Python implementation and paper materials 
 
 ## DOI / Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17613664.svg)](https://doi.org/10.5281/zenodo.17613664)
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17613664.svg)](https://doi.org/10.5281/zenodo.17613664)](https://doi.org/10.5281/zenodo.17613664)
 
 
 This work is permanently archived and can be cited using the Zenodo DOI.
