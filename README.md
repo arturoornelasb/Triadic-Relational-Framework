@@ -1,5 +1,10 @@
 # A Rigorous Triadic Framework for Neurosymbolic Reasoning
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
+
+[[![DOI](https://zenodo.org/badge/17613664.svg)](https://doi.org/10.5281/zenodo.17613664)](https://zenodo.org/badge/DOI/10.5281/zenodo.17613664.svg)
+
+
 TL;DR: A formal, integer-based (GCD) framework for neurosymbolic logic to replace floating-point vector addition.
 This repository contains the official Python implementation and paper materials for "A Rigorous Triadic Framework for Neurosymbolic Reasoning".
 
@@ -8,8 +13,6 @@ This repository contains the official Python implementation and paper materials 
 [source: A Rigorous Triadic Framework for Neurosymbolic Reasoning.pdf] Current Large Language Models (LLMs) excel at statistical pattern matching but struggle with verifiable symbolic logic. This paper proposes a formal, integer-based relational framework as a candidate model for the underlying logic of emergent "sparse circuits". The framework is built on dual functions: a generative function ($\Phi_G$) for predicting new relations and a discovery function ($\Phi_D$) for inferring balancing rules from existing data. It uses integer balancing and normalization via the Greatest Common Divisor (GCD) to compute relational transformations, moving beyond floating-point vector addition to a ratio-based, symbolic logic. We first define the formal mathematics. We then validate its descriptive power by modeling the laws of classical mechanics. Finally, we discuss its implementation in Python using exact rational arithmetic (fractions) and graph libraries (networkx) for building hybrid neurosymbolic architectures. We provide a Python implementation to validate the framework's computational viability.
 
 ## DOI / Citation
-
-[[![DOI](https://zenodo.org/badge/17613664.svg)](https://doi.org/10.5281/zenodo.17613664)](https://zenodo.org/badge/DOI/10.5281/zenodo.17613664.svg
 )
 
 
