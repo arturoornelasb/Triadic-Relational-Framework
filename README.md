@@ -83,6 +83,15 @@ Triadic-Relational-Framework/
 └── LICENSE
 
 ```
+##  Citation
+
+If you use this framework or theory in your research, please cite:
+
+Ornelas Brand, . josé A. (2025). A Rigorous Triadic Framework for Neurosymbolic Reasoning (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17613664
+
+
+
+
 
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
